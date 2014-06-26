@@ -1,1 +1,17 @@
+.mainWords{
+	text-align: justify;
+	vertical-align: top;
+	width: 70%;
+	font-size: 140%;
+	margin: 0 auto 0 auto;
+	font-family: sans-serif;
+}
 
+.images{
+	text-align: center;
+}
+
+.footer{
+	border-top: 1px solid;
+	text-align: center;
+}
